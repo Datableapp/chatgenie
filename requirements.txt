@@ -4,4 +4,3 @@ pillow==8.2
 jinja2==3.0.3
 requests
 pandas
-json
