@@ -1,4 +1,6 @@
-voila
-ipywidgets
+voila==0.2.10
+ipywidgets==7.5.1
+pillow==8.2
+jinja2==3.0.3
 requests
 pandas
